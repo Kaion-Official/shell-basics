@@ -1,5 +1,5 @@
 #!/bin/bash
-#A simple script that asks for your name then outputs it.
+# A simple script that asks for your name then outputs it.
 
 echo -n "Hello! What's your name? "
 read name

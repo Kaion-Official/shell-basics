@@ -4,7 +4,9 @@
 
 - Shell scripts are generally used to stay away from dreary work.
 
-- You can write a script to automate a set of instructions to be executed one after the other consistently, instead of typing in the commands one after the other n number of times.
+- You can write a script to automate a set of instructions to be executed one after the other consistently, instead of typing in the commands one after the other N number of times.
+
+
 
 ## So what is this repo all about then?
 

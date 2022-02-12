@@ -9,6 +9,7 @@
 
 
 
+
 #  So what is this repo all about then?
 
 - In this repo, we'll go through the certain basic orders for BASH (Bourne Again SHell), which is the most broadly involved shell and furthermore the default in most Linux frameworks, which most servers use as their working framework. 

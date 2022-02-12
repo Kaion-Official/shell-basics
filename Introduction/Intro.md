@@ -15,7 +15,7 @@
 
 # How do I run my script?
 
-- Make sure to navigate to your script directory first, eg: <Documents/Linux Projects/Shell/#1_Hello>
+- Make sure to navigate to your script directory first, eg: 'cd Documents/Linux Projects/Shell/#1_Hello'
  
 - Be sure to run your scripts with 'bash yourscriptname.sh' in the terminal! 🖥️
 

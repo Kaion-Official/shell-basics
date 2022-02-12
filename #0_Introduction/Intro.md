@@ -13,4 +13,5 @@
 - Made by Kaion 😀
 
 
+![terminal](https://user-images.githubusercontent.com/86653534/153721672-bd90963b-4fa6-4f08-9937-58ed8b920abd.gif)
 

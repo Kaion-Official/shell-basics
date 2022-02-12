@@ -10,14 +10,16 @@
 
 #  So what is this repo all about then?
 
-- In this repo, we'll go through the certain basic orders for BASH (Bourne Again SHell), which is the most broadly involved shell and furthermore the default in most Linux frameworks, which most servers use as their working framework. Shell is like any other programming language and can be used to help you in any way you like, but it takes dedication to achieve something truly spectacular. Take your time to explore these basic to increasingly complex scripts to broaden your mind, and most importanlty, have fun doing it!
+- In this repo, we'll go through the certain basic orders for BASH (Bourne Again SHell), which is the most broadly involved shell and furthermore the default in most Linux frameworks, which most servers use as their working framework. Shell is like any other programming language and can be used to help you in any way you like, but it takes dedication to achieve something truly spectacular. Take your time to explore these basic to increasingly complex scripts to broaden your mind, and most importantly, have fun  whilst doing it! 😺
 
 
 # How do I run my script?
 
-- Make sure to navigate to your script directory first, eg: 'cd Documents/Linux Projects/Shell/#1_Hello'
+- Make sure to navigate to your script directory first, eg: 'cd Downloads/shell-basics-main/#1_Hello' in the terminal 🖥️
+
+- Type 'ls' to view all files in the directory
  
-- Be sure to run your scripts with 'bash yourscriptname.sh' in the terminal! 🖥️
+- Finally to run your scripts type 'bash yourscriptname.sh' and away you go!
 
 - Made by Kaion 🐧
 

@@ -1,4 +1,4 @@
-#   Introduction to Shell Scripting 🐚
+#   Introduction to Shell 🐚 Scripting
 
 - The shell is a program that gives the client a point of interaction to utilize the working framework's capacities through certain orders. A shell script is a program that is utilized to perform explicit assignments.
 

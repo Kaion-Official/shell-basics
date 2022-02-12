@@ -1,7 +1,7 @@
 # shell-basics
 
-- A small repo dedicated to helping those learning bash.
-
+- A small repo dedicated to helping those learning BASH 🔨
+- 
 - To download specific folders of this repository, click [here](https://download-directory.github.io/)
 
 - To jump to the introduction and a little suprise, click [here](https://github.com/Kaion-Official/shell-basics/blob/main/Introduction/Intro.md)

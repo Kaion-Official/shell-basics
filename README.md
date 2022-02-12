@@ -1,3 +1,3 @@
 # shell-basics
 A small repo dedicated to helping those learning bash.
-To download specific folders of this repository, Click [a relative link](https://download-directory.github.io/)
+To download specific folders of this repository, Click [here](https://download-directory.github.io/)
